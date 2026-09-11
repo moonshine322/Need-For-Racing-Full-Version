@@ -238,3 +238,6 @@ This repository serves as the official landing page for Need for Racing. The sof
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Need for Racing today!**
+
+---
+**Last updated:** 2026-09-11 17:42:31 UTC
