@@ -240,4 +240,4 @@ This repository serves as the official landing page for Need for Racing. The sof
 **Get the most recent version of Need for Racing today!**
 
 ---
-**Last updated:** 2026-10-07 20:26:06 UTC
+**Last updated:** 2026-10-08 00:45:02 UTC
